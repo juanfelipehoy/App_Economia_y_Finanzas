@@ -1,7 +1,6 @@
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { createPortal } from 'react-dom'
 import { formatDate, getInitials, resolvePhoto } from '../lib/format'
-import { ChevronIcon, CloseIcon } from './Icons'
 
 const EXIT_MS = 260
 const FOCUSABLE = 'button:not([tabindex="-1"]), [href], input, select, textarea'
@@ -123,7 +122,7 @@ export default function Lightbox({ genios, index, onIndexChange, onClose }) {
             onClick={dismiss}
             aria-label="Cerrar"
           >
-            <CloseIcon />
+            ✕
           </button>
         </div>
 
@@ -142,7 +141,7 @@ export default function Lightbox({ genios, index, onIndexChange, onClose }) {
                 onClick={() => move(-1)}
                 aria-label="Imagen anterior"
               >
-                <ChevronIcon direction="left" />
+                ←
               </button>
               <button
                 type="button"
@@ -150,7 +149,7 @@ export default function Lightbox({ genios, index, onIndexChange, onClose }) {
                 onClick={() => move(1)}
                 aria-label="Imagen siguiente"
               >
-                <ChevronIcon />
+                →
               </button>
             </>
           )}

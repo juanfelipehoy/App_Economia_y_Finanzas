@@ -2,7 +2,6 @@ import { useCallback, useMemo, useRef, useState } from 'react'
 import GeniusCard from './GeniusCard'
 import Lightbox from './Lightbox'
 import { EmptyState, SectionHead } from './ui'
-import { SearchIcon } from './Icons'
 import { normalize, resolvePhoto } from '../lib/format'
 
 const FILTERS = [
@@ -66,7 +65,7 @@ export default function GeniusSection({ genios }) {
         <div className="toolbar" data-reveal>
           <label className="field">
             <span className="sr-only">Buscar inversor</span>
-            <SearchIcon />
+            <span className="field__icon">🔍</span>
             <input
               type="search"
               className="input"

@@ -1,5 +1,4 @@
 import { formatDate, getInitials, resolvePhoto } from '../lib/format'
-import { ZoomIcon } from './Icons'
 
 export default function GeniusCard({ genio, onOpenPhoto }) {
   const proyectos = genio.proyectosGrandiosos ?? []
@@ -23,7 +22,7 @@ export default function GeniusCard({ genio, onOpenPhoto }) {
             decoding="async"
           />
           <span className="genius-card__zoom" aria-hidden="true">
-            <ZoomIcon />
+            🔍
           </span>
         </button>
       ) : (
