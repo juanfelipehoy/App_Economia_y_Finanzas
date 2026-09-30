@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import { useScrollSpy } from '../hooks/useScrollSpy'
-import { TrendIcon } from './Icons'
 
 const NAV_ITEMS = [
   { id: 'dashboard', label: 'Dashboard' },
@@ -42,7 +41,7 @@ export default function Header() {
       <div className="header__inner container">
         <a className="brand" href="#inicio" onClick={() => setOpen(false)}>
           <span className="brand__mark" aria-hidden="true">
-            <TrendIcon />
+            📈
           </span>
           <span className="brand__name">FinanzasMundo</span>
         </a>
