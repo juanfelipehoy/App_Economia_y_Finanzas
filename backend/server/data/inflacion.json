@@ -1,0 +1,52 @@
+{
+  "titulo": "Inflación Global",
+  "descripcion": "La inflación es el aumento generalizado y sostenido de los precios de bienes y servicios en una economía durante un período de tiempo.",
+  "importancia": [
+    "Afecta el poder adquisitivo de tu dinero",
+    "Influye en las decisiones de inversión",
+    "Los bancos centrales la controlan con tasas de interés",
+    "Impacta el costo de vida de las personas",
+    "Afecta los salarios y los contratos"
+  ],
+  "tasasActuales": [
+    {
+      "pais": "Estados Unidos",
+      "tasa": 3.2,
+      "bancoCentral": "Reserva Federal (Fed)"
+    },
+    {
+      "pais": "Zona Euro",
+      "tasa": 2.8,
+      "bancoCentral": "Banco Central Europeo (BCE)"
+    },
+    {
+      "pais": "Reino Unido",
+      "tasa": 3.0,
+      "bancoCentral": "Banco de Inglaterra"
+    },
+    {
+      "pais": "Japón",
+      "tasa": 2.2,
+      "bancoCentral": "Banco de Japón"
+    },
+    {
+      "pais": "China",
+      "tasa": 0.5,
+      "bancoCentral": "Banco Popular de China"
+    }
+  ],
+  "causas": [
+    "Aumento de la demanda de bienes y servicios",
+    "Incremento en los costos de producción",
+    "Políticas monetarias expansivas",
+    "Expectativas de inflación en el futuro",
+    "Devaluación de la moneda"
+  ],
+  "consecuencias": [
+    "Reducción del poder adquisitivo",
+    "Aumento de las tasas de interés",
+    "Impacto en los ahorros e inversiones",
+    "Cambios en los patrones de consumo",
+    "Ajuste de salarios y contratos"
+  ]
+}

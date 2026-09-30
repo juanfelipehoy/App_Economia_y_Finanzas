@@ -1,0 +1,502 @@
+[
+  {
+    "id": "warren-buffett",
+    "nombre": "Warren Buffett",
+    "titulo": "El Oráculo de Omaha",
+    "nacimiento": "1930-08-30",
+    "lugarNacimiento": "Omaha, Nebraska, Estados Unidos",
+    "biografia": "Warren Buffett es uno de los inversores más exitosos de la historia. Nació en 1930 en Omaha, Nebraska, y comenzó su viaje en el mundo de las inversiones desde muy joven. Es conocido por su filosofía de inversión en valor y por ser el CEO de Berkshire Hathaway. Con una fortuna estimada de más de 100 mil millones de dólares, es considerado uno de los hombres más ricos del mundo y un filántropo comprometido.",
+    "filosofia": "Inversión en valor - comprar empresas excelentes a precios razonables y mantenerlas a largo plazo",
+    "fraseCelebre": "El precio es lo que pagas, el valor es lo que obtienes",
+    "foto": "/images/warren_buffett.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Berkshire Hathaway",
+        "descripcion": "Transformó una empresa textil fallida en un conglomerado multimillonario con participaciones en Apple, Coca-Cola, American Express y más",
+        "impacto": "Creó un imperio financiero worth más de 700 mil millones de dólares"
+      },
+      {
+        "nombre": "Inversión en Coca-Cola",
+        "descripcion": "Una de sus inversiones más icónicas y rentables, compró acciones en 1988 y las ha mantenido por décadas",
+        "impacto": "Ganancias de más de 20 veces la inversión original"
+      },
+      {
+        "nombre": "The Giving Pledge",
+        "descripcion": "Compromiso de donar el 99% de su fortuna a filantropía, junto con Bill Gates",
+        "impacto": "Ha inspirado a más de 200 billionaires a donar su fortuna"
+      },
+      {
+        "nombre": "Berkshire Hathaway Energy",
+        "descripcion": "Inversión masiva en energía renovable y infraestructura energética",
+        "impacto": "Uno de los mayores productores de energía renovable en Estados Unidos"
+      },
+      {
+        "nombre": "Cartas a los accionistas",
+        "descripcion": "Sus cartas anuales son consideradas material de estudio obligatorio para inversores",
+        "impacto": "Han educado a generaciones de inversores sobre principios de negocio e inversión"
+      }
+    ],
+    "logros": [
+      "Fortuna de más de 100 mil millones de dólares",
+      "CEO de Berkshire Hathaway desde 1970",
+      "Una de las mayores fortunas filantrópicas del mundo",
+      "Mencionado en la lista Forbes de las personas más influyentes"
+    ],
+    "destacado": true
+  },
+  {
+    "id": "benjamin-graham",
+    "nombre": "Benjamin Graham",
+    "titulo": "Padre de la Inversión en Valor",
+    "nacimiento": "1894-05-09",
+    "lugarNacimiento": "Londres, Reino Unido",
+    "biografia": "Benjamin Graham es conocido como el padre de la inversión en valor. Escribió 'El Inversionista Inteligente', un libro que ha influenciado a generaciones de inversores, incluyendo a Warren Buffett. Fue profesor en Columbia Business School y desarrolló los principios fundamentales del análisis de valores que siguen siendo relevantes hoy en día.",
+    "filosofia": "Inversión en valor - buscar acciones que cotizan por debajo de su valor intrínseco",
+    "fraseCelebre": "El inversor inteligente es un inversor realista",
+    "foto": "/images/benjamin-graham.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "El Inversionista Inteligente",
+        "descripcion": "Libro considerado la biblia de la inversión en valor",
+        "impacto": "Ha vendido millones de copias y sigue siendo referencia obligatoria"
+      },
+      {
+        "nombre": "Graham-Newman Partnership",
+        "descripcion": "Fondo de inversión que logró retornos excepcionales aplicando sus principios",
+        "impacto": "Demostró la efectividad de la inversión en valor"
+      },
+      {
+        "nombre": "Security Analysis",
+        "descripcion": "Libro fundamental sobre análisis de valores coescrito con David Dodd",
+        "impacto": "Estableció las bases del análisis financiero moderno"
+      }
+    ],
+    "logros": [
+      "Padre de la inversión en valor",
+      "Profesor en Columbia University",
+      "Mentor de Warren Buffett",
+      "Autor de libros clásicos de inversión"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "john-maynard-keynes",
+    "nombre": "John Maynard Keynes",
+    "titulo": "Economista Revolucionario",
+    "nacimiento": "1883-06-05",
+    "lugarNacimiento": "Cambridge, Reino Unido",
+    "biografia": "Economista británico cuyas ideas transformaron la macroeconomía moderna. Sus teorías sobre el gasto gubernamental y la demanda agregada siguen siendo fundamentales hoy en día. Keynes también fue un exitoso inversor, administrando el fondo del King's College de Cambridge y logrando retornos significativos.",
+    "filosofia": "Intervención gubernamental para estabilizar la economía - gasto público para estimular la demanda",
+    "fraseCelebre": "A largo plazo, todos estaremos muertos",
+    "foto": "/images/jhon_maynard_keynes.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Teoría General",
+        "descripcion": "Su obra magna que revolucionó la economía",
+        "impacto": "Cambió la forma en que los gobiernos manejan las economías"
+      },
+      {
+        "nombre": "Sistema de Bretton Woods",
+        "descripcion": "Participó crucial en el diseño del sistema monetario posterior a WWII",
+        "impacto": "Estableció las bases del sistema financiero internacional"
+      },
+      {
+        "nombre": "Gestión del fondo del King's College",
+        "descripcion": "Logró retornos excepcionales durante turbulentos mercados",
+        "impacto": "Demostró sus habilidades prácticas en inversión"
+      }
+    ],
+    "logros": [
+      "Revolucionó la macroeconomía moderna",
+      "Influyó en políticas económicas globales",
+      "Economista exitoso e inversor",
+      "Miembro del Bloomsbury Group"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "george-soros",
+    "nombre": "George Soros",
+    "titulo": "El Hombre que Rompió el Banco de Inglaterra",
+    "nacimiento": "1930-08-12",
+    "lugarNacimiento": "Budapest, Hungría",
+    "biografia": "Famoso por ganar 1,000 millones de dólares en un día al apostar contra la libra esterlina en 1992. Es un filántropo y fundador de Soros Fund Management. A través de sus Open Society Foundations, ha donado más de 32 mil millones de dólares a causas democráticas y de derechos humanos alrededor del mundo.",
+    "filosofia": "Reflexividad - los mercados financieros influyen en la economía y viceversa",
+    "fraseCelebre": "Estuve equivocado, pero no mucho",
+    "foto": "/images/George_Soros_-_World_Economic_Forum_Annual_Meeting_2011.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Apuesta contra la libra esterlina (1992)",
+        "descripcion": "Ganó 1,000 millones de dólares en un día",
+        "impacto": "Forzó al Reino Unido a salir del Mecanismo de Tipos de Cambio Europeos"
+      },
+      {
+        "nombre": "Quantum Fund",
+        "descripcion": "Fondo de inversión que logró retornos promedio anuales del 30%",
+        "impacto": "Uno de los fondos más exitosos de la historia"
+      },
+      {
+        "nombre": "Open Society Foundations",
+        "descripcion": "Red de fundaciones que promueven democracia y derechos humanos",
+        "impacto": "Ha donado más de 32 mil millones de dólares"
+      }
+    ],
+    "logros": [
+      "Ganó 1,000 millones en un día (1992)",
+      "Fundador de Soros Fund Management",
+      "Filántropo con donaciones de 32+ mil millones",
+      "Autor de libros sobre finanzas y filosofía"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "janet-yellen",
+    "nombre": "Janet Yellen",
+    "titulo": "Primera Mujer Secretaria del Tesoro de EE.UU.",
+    "nacimiento": "1946-08-13",
+    "lugarNacimiento": "Brooklyn, Nueva York, Estados Unidos",
+    "biografia": "Economista destacada que ha servido como Presidenta de la Reserva Federal y Secretaria del Tesoro. Pionera en la economía y política financiera. Ha sido la primera mujer en ocupar ambos cargos y ha jugado un papel crucial en la respuesta económica a la pandemia de COVID-19 y otras crisis financieras.",
+    "filosofia": "Política monetaria y fiscal para estabilidad económica - énfasis en empleo y inflación",
+    "fraseCelebre": "La economía no es un juego de suma cero",
+    "foto": "/images/janet_yellen.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Presidenta de la Reserva Federal (2014-2018)",
+        "descripcion": "Primera mujer en liderar la Fed",
+        "impacto": "Guió la economía estadounidense durante la recuperación post-crisis financiera"
+      },
+      {
+        "nombre": "Secretaria del Tesoro (2021-presente)",
+        "descripcion": "Primera mujer en este cargo",
+        "impacto": "Lidera la política fiscal de EE.UU. durante crisis económicas globales"
+      },
+      {
+        "nombre": "Respuesta a la pandemia de COVID-19",
+        "descripcion": "Coordinó el paquete de estímulo económico masivo",
+        "impacto": "Ayudó a prevenir una depresión económica"
+      }
+    ],
+    "logros": [
+      "Primera mujer Presidenta de la Fed",
+      "Primera mujer Secretaria del Tesoro",
+      "Pionera en economía",
+      "Presidenta del Council of Economic Advisers"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "ray-dalio",
+    "nombre": "Ray Dalio",
+    "titulo": "El Principio de las Finanzas",
+    "nacimiento": "1949-08-08",
+    "lugarNacimiento": "Nueva York, Estados Unidos",
+    "biografia": "Fundador de Bridgewater Associates, el hedge fund más grande del mundo. Es conocido por su enfoque sistemático de inversión y sus principios sobre economía y vida. Dalio ha desarrollado un modelo económico único basado en ciclos de deuda y ha compartido sus conocimientos a través de libros y videos educativos.",
+    "filosofia": "Investigación sistemática y principios radicales de transparencia",
+    "fraseCelebre": "El dolor + la reflexión = el progreso",
+    "foto": "/images/ray_dalio.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Bridgewater Associates",
+        "descripcion": "Construyó el hedge fund más grande del mundo con 160 mil millones en activos",
+        "impacto": "Revolucionó la gestión de activos con enfoque sistemático"
+      },
+      {
+        "nombre": "Principios: Life and Work",
+        "descripcion": "Libro que comparte su filosofía de vida y negocios",
+        "impacto": "Ha vendido millones de copias y es considerado un clásico moderno"
+      },
+      {
+        "nombre": "Modelo de máquina económica",
+        "descripcion": "Desarrolló un modelo para predecir ciclos económicos",
+        "impacto": "Es utilizado por inversores y economistas globalmente"
+      }
+    ],
+    "logros": [
+      "Fundador del hedge fund más grande del mundo",
+      "Autor de bestsellers",
+      "Filántropo",
+      "Economista y pensador influyente"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "peter-lynch",
+    "nombre": "Peter Lynch",
+    "titulo": "El Rey del Growth Investing",
+    "nacimiento": "1944-01-19",
+    "lugarNacimiento": "Newton, Massachusetts, Estados Unidos",
+    "biografia": "Legendario gestor de fondos del Fidelity Magellan Fund, que logró un retorno promedio anual del 29.2% durante 13 años. Es conocido por su filosofía de invertir en lo que conoces y por hacer accesible la inversión para el público general. Lynch se retiró joven para dedicarse a la filantropía y la escritura.",
+    "filosofia": "Invierte en lo que conoces - busca empresas que entiendas y que tengan potencial de crecimiento",
+    "fraseCelebre": "Compre empresas que crecería aunque el mercado cerrara por 10 años",
+    "foto": "/images/peter_lynch.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Fidelity Magellan Fund",
+        "descripcion": "Gestionó el fondo desde 1977 hasta 1990 con retornos excepcionales",
+        "impacto": "Transformó un fondo de 18 millones a 14 mil millones"
+      },
+      {
+        "nombre": "One Up on Wall Street",
+        "descripcion": "Libro que hace accesible la inversión para el público general",
+        "impacto": "Ha inspirado a millones de inversores individuales"
+      },
+      {
+        "nombre": "Beat the Street",
+        "descripcion": "Segundo libro sobre estrategias de inversión",
+        "impacto": "Complementa su filosofía de inversión en crecimiento"
+      }
+    ],
+    "logros": [
+      "Retorno promedio anual del 29.2% en Magellan Fund",
+      "Autor de bestsellers de inversión",
+      "Legendario gestor de fondos",
+      "Pionero en making investment accessible"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "charlie-munger",
+    "nombre": "Charlie Munger",
+    "titulo": "El Arquitecto Intelectual",
+    "nacimiento": "1924-01-01",
+    "lugarNacimiento": "Omaha, Nebraska, Estados Unidos",
+    "biografia": "Vicepresidente de Berkshire Hathaway y socio de Warren Buffett por más de 50 años. Conocido por su sabiduría, pensamiento multidisciplinario y su enfoque en la inversión en valor. Munger es considerado uno de los mentores más influyentes en el mundo de las inversiones.",
+    "filosofia": "Pensamiento multidisciplinario - aplicar principios de múltiples disciplinas a la inversión",
+    "fraseCelebre": "Invierte en un negocio que cualquier tonto puede gestionar, porque tarde o temprano, cualquier tonto probablemente lo gestionará",
+    "foto": "/images/charlie_munger.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Berkshire Hathaway",
+        "descripcion": "Socio de Warren Buffett en la construcción del imperio Berkshire Hathaway",
+        "impacto": "Contribuyó a decisiones de inversión que generaron miles de millones"
+      },
+      {
+        "nombre": "Daily Journal Corporation",
+        "descripcion": "Presidente de Daily Journal y gestor de su cartera de inversiones",
+        "impacto": "Logró retornos excepcionales gestionando el periódico"
+      },
+      {
+        "nombre": "Poor Charlie's Almanack",
+        "descripcion": "Libro que compila su sabiduría y principios de inversión",
+        "impacto": "Es lectura obligatoria para inversores y empresarios"
+      }
+    ],
+    "logros": [
+      "Vicepresidente de Berkshire Hathaway",
+      "Socio de Warren Buffett por 50+ años",
+      "Filántropo con donaciones significativas",
+      "Mentor de generaciones de inversores"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "carl-icahn",
+    "nombre": "Carl Icahn",
+    "titulo": "El Rey de los Activistas",
+    "nacimiento": "1936-02-16",
+    "lugarNacimiento": "Nueva York, Estados Unidos",
+    "biografia": "Famoso inversor activista conocido por tomar participaciones en empresas y forzar cambios corporativos. Fundador de Icahn Enterprises, ha acumulado una fortuna de más de 20 mil millones de dólares mediante estrategias de inversión agresivas.",
+    "filosofia": "Inversión activista - comprar participaciones para influir en la gestión corporativa",
+    "fraseCelebre": "Algunos personas se adaptan al mundo, otros tratan de cambiarlo",
+    "foto": "/images/carl_icahn.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Icahn Enterprises",
+        "descripcion": "Conglomerado de inversión con participaciones en múltiples sectores",
+        "impacto": "Gestiona activos por valor de más de 20 mil millones"
+      },
+      {
+        "nombre": "Activismo en Apple",
+        "descripcion": "Presionó a Apple para recomprar acciones, aumentando el valor para accionistas",
+        "impacto": "Apple recompró más de 200 mil millones en acciones"
+      },
+      {
+        "nombre": "TWA y Netflix",
+        "descripcion": "Intervenciones activistas que transformaron empresas",
+        "impacto": "Cambió la estructura corporativa de múltiples compañías"
+      }
+    ],
+    "logros": [
+      "Fortuna de más de 20 mil millones",
+      "Pionero en inversión activista",
+      "Transformó múltiples corporaciones",
+      "Influente en Wall Street"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "jim-simons",
+    "nombre": "Jim Simons",
+    "titulo": "El Rey del Cuantitativo",
+    "nacimiento": "1938-04-25",
+    "lugarNacimiento": "Newton, Massachusetts, Estados Unidos",
+    "biografia": "Matemático y fundador de Renaissance Technologies, conocido por su fondo Medallion que logró retornos promedio anuales del 66% antes de comisiones. Simons revolucionó la inversión mediante el uso de matemáticas avanzadas y algoritmos.",
+    "filosofia": "Inversión cuantitativa - usar matemáticas y algoritmos para predecir mercados",
+    "fraseCelebre": "No contrates matemáticos brillantes y diles qué hacer. Contrata matemáticos brillantes y deja que te digan qué hacer",
+    "foto": "/images/jim_simons.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Renaissance Technologies",
+        "descripcion": "Fondo cuantitativo más exitoso de la historia",
+        "impacto": "Logró retornos del 66% anual en el fondo Medallion"
+      },
+      {
+        "nombre": "Math for America",
+        "descripcion": "Fundación que mejora la educación matemática en escuelas públicas",
+        "impacto": "Ha donado más de 100 millones a educación matemática"
+      },
+      {
+        "nombre": "Simons Foundation",
+        "descripcion": "Fundación que financia investigación en matemáticas y ciencias",
+        "impacto": "Ha donado más de 2 mil millones a investigación científica"
+      }
+    ],
+    "logros": [
+      "Fundador de Renaissance Technologies",
+      "Retornos del 66% anual en Medallion Fund",
+      "Matemático destacado",
+      "Filántropo con donaciones de 2+ mil millones"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "john-bogle",
+    "nombre": "John Bogle",
+    "titulo": "El Padre de los Index Funds",
+    "nacimiento": "1929-05-08",
+    "lugarNacimiento": "Montclair, Nueva Jersey, Estados Unidos",
+    "biografia": "Fundador de Vanguard Group y creador del primer fondo indexado. Bogle revolucionó la industria de fondos de inversión al crear fondos de bajo costo que rastrean índices de mercado, permitiendo a inversores ordinarios acceder a mercados de forma económica.",
+    "filosofia": "Inversión pasiva - mantener costos bajos y seguir el mercado a largo plazo",
+    "fraseCelebre": "No busques la aguja en el pajar. Compra el pajar",
+    "foto": "/images/John Bogle_.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Vanguard Group",
+        "descripcion": "Creó la segunda empresa de fondos más grande del mundo",
+        "impacto": "Gestiona más de 7 billones de dólares en activos"
+      },
+      {
+        "nombre": "Primer Fondo Indexado",
+        "descripcion": "Creó el primer fondo que rastreaba el S&P 500",
+        "impacto": "Revolucionó la industria de fondos de inversión"
+      },
+      {
+        "nombre": "Estructura de propiedad de Vanguard",
+        "descripcion": "Estructura única donde los fondos son propiedad de los inversores",
+        "impacto": "Reduce costos y alinea intereses con inversores"
+      }
+    ],
+    "logros": [
+      "Fundador de Vanguard Group",
+      "Creador del primer fondo indexado",
+      "Revolucionó la industria de fondos",
+      "Autor de libros sobre inversión"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "michael-burry",
+    "nombre": "Michael Burry",
+    "titulo": "El Visionario de la Crisis",
+    "nacimiento": "1971-06-17",
+    "lugarNacimiento": "Nueva York, Estados Unidos",
+    "biografia": "Neurólogo convertido en gestor de fondos famoso por predecir la crisis de hipotecas subprime de 2008. Su fondo Scion Asset Management logró ganancias masivas apostando contra el mercado inmobiliario. Burry es conocido por su análisis detallado y contrarian.",
+    "filosofia": "Análisis de valor profundo - buscar oportunidades donde otros no ven",
+    "fraseCelebre": "Soy un inversor de valor. Compro cosas baratas",
+    "foto": "/images/Michael Burry_.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Predicción de la Crisis 2008",
+        "descripcion": "Fue de los primeros en identificar la burbuja de hipotecas subprime",
+        "impacto": "Su fondo ganó 489% durante la crisis"
+      },
+      {
+        "nombre": "Scion Asset Management",
+        "descripcion": "Fondo de inversión enfocado en oportunidades de valor",
+        "impacto": "Ha logrado retornos excepcionales en múltiples periodos"
+      },
+      {
+        "nombre": "Inversión en Agua",
+        "descripcion": "Predijo la crisis del agua e invirtió en infraestructura hídrica",
+        "impacto": "Posicionó su fondo para beneficiarse de escasez de agua"
+      }
+    ],
+    "logros": [
+      "Predijo la crisis de 2008",
+      "Ganó 489% durante la crisis",
+      "Neurólogo y gestor de fondos",
+      "Mencionado en The Big Short"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "bill-gross",
+    "nombre": "Bill Gross",
+    "titulo": "El Rey de los Bonos",
+    "nacimiento": "1944-04-13",
+    "lugarNacimiento": "Middletown, Ohio, Estados Unidos",
+    "biografia": "Conocido como el 'Rey de los Bonos', Gross fundó PIMCO y gestionó el fondo de bonos más grande del mundo. Es considerado uno de los gestores de renta fija más influyentes de la historia y pionero en estrategias de inversión en bonos.",
+    "filosofia": "Gestión activa de bonos - aprovechar movimientos en tasas de interés",
+    "fraseCelebre": "Los mercados financieros son como un casino, excepto que el casino tiene reglas",
+    "foto": "/images/Bill-Gross-headshot.jpeg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "PIMCO",
+        "descripcion": "Construyó la firma de gestión de bonos más grande del mundo",
+        "impacto": "Gestionó más de 2 billones de dólares en activos"
+      },
+      {
+        "nombre": "Total Return Fund",
+        "descripcion": "Fondo de bonos más grande del mundo bajo su gestión",
+        "impacto": "Logró retornos excepcionales durante décadas"
+      },
+      {
+        "nombre": "Investment Outlook",
+        "descripcion": "Newsletter mensual que influye en mercados globales",
+        "impacto": "Sus análisis mueven mercados de bonos"
+      }
+    ],
+    "logros": [
+      "Fundador de PIMCO",
+      "Gestionó 2+ billones en activos",
+      "Rey de los bonos",
+      "Influente en mercados globales"
+    ],
+    "destacado": false
+  },
+  {
+    "id": "david-tepper",
+    "nombre": "David Tepper",
+    "titulo": "El Rey del Distressed Debt",
+    "nacimiento": "1957-09-11",
+    "lugarNacimiento": "Pittsburgh, Pennsylvania, Estados Unidos",
+    "biografia": "Fundador de Appaloosa Management, conocido por su habilidad para invertir en deuda en problemas (distressed debt). Tepper logró retornos excepcionales durante crisis financieras y es uno de los gestores de hedge funds más exitosos.",
+    "filosofia": "Inversión en distressed debt - comprar deuda de empresas en problemas",
+    "fraseCelebre": "No importa lo que digan los analistas, yo invierto basándome en mis propias investigaciones",
+    "foto": "/images/David_tepper.jpg",
+    "proyectosGrandiosos": [
+      {
+        "nombre": "Appaloosa Management",
+        "descripcion": "Fondo de inversión especializado en distressed debt",
+        "impacto": "Gestiona más de 15 mil millones en activos"
+      },
+      {
+        "nombre": "Retornos durante Crisis 2009",
+        "descripcion": "Logró retorno del 120% en 2009 comprando deuda en problemas",
+        "impacto": "Uno de los mejores retornos en la historia de hedge funds"
+      },
+      {
+        "nombre": "Propietario de Carolina Panthers",
+        "descripcion": "Compró el equipo de NFL Carolina Panthers",
+        "impacto": "Se convirtió en uno de los dueños más ricos de la NFL"
+      }
+    ],
+    "logros": [
+      "Fundador de Appaloosa Management",
+      "Retorno del 120% en 2009",
+      "Rey del distressed debt",
+      "Propietario de Carolina Panthers"
+    ],
+    "destacado": false
+  }
+]

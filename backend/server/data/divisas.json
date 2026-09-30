@@ -1,0 +1,74 @@
+[
+  {
+    "id": "usd",
+    "nombre": "Dólar Estadounidense",
+    "codigo": "USD",
+    "pais": "Estados Unidos",
+    "descripcion": "La moneda de reserva más importante del mundo",
+    "valorReferencia": 1.00,
+    "simbolo": "$"
+  },
+  {
+    "id": "eur",
+    "nombre": "Euro",
+    "codigo": "EUR",
+    "pais": "Unión Europea",
+    "descripcion": "Moneda oficial de la Unión Europea",
+    "valorReferencia": 0.92,
+    "simbolo": "€"
+  },
+  {
+    "id": "jpy",
+    "nombre": "Yen Japonés",
+    "codigo": "JPY",
+    "pais": "Japón",
+    "descripcion": "Moneda de la tercera economía mundial",
+    "valorReferencia": 149.50,
+    "simbolo": "¥"
+  },
+  {
+    "id": "gbp",
+    "nombre": "Libra Esterlina",
+    "codigo": "GBP",
+    "pais": "Reino Unido",
+    "descripcion": "Una de las monedas más antiguas",
+    "valorReferencia": 0.79,
+    "simbolo": "£"
+  },
+  {
+    "id": "chf",
+    "nombre": "Franco Suizo",
+    "codigo": "CHF",
+    "pais": "Suiza",
+    "descripcion": "Conocida como refugio seguro",
+    "valorReferencia": 0.88,
+    "simbolo": "Fr"
+  },
+  {
+    "id": "cad",
+    "nombre": "Dólar Canadiense",
+    "codigo": "CAD",
+    "pais": "Canadá",
+    "descripcion": "Moneda de una economía rica en recursos",
+    "valorReferencia": 1.36,
+    "simbolo": "$"
+  },
+  {
+    "id": "aud",
+    "nombre": "Dólar Australiano",
+    "codigo": "AUD",
+    "pais": "Australia",
+    "descripcion": "Moneda vinculada a commodities",
+    "valorReferencia": 1.52,
+    "simbolo": "$"
+  },
+  {
+    "id": "cny",
+    "nombre": "Yuan Chino",
+    "codigo": "CNY",
+    "pais": "China",
+    "descripcion": "Moneda de la segunda economía mundial",
+    "valorReferencia": 7.29,
+    "simbolo": "¥"
+  }
+]

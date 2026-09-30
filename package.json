@@ -1,0 +1,33 @@
+{
+  "name": "finanzasmundo",
+  "version": "1.0.0",
+  "description": "Aplicación Fullstack de Economía y Finanzas Globales",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n api,web -c magenta,cyan \"npm:dev:backend\" \"npm:dev:frontend\"",
+    "dev:backend": "npm start --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "start": "npm run start --prefix backend",
+    "preview": "npm run preview --prefix frontend",
+    "lint": "npm run lint --prefix frontend",
+    "check": "npm run lint && npm run build",
+    "install:all": "npm install && npm install --prefix backend && npm install --prefix frontend"
+  },
+  "keywords": [
+    "finance",
+    "economy",
+    "fullstack",
+    "react",
+    "express"
+  ],
+  "author": "Juan Felipe Hoy",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

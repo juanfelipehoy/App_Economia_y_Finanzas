@@ -1,0 +1,100 @@
+[
+  {
+    "id": "jpmorgan",
+    "nombre": "JPMorgan Chase",
+    "pais": "Estados Unidos",
+    "sede": "Nueva York",
+    "fundado": 1871,
+    "activos": "3.9 billones USD",
+    "descripcion": "El banco más grande de Estados Unidos y uno de los más grandes del mundo",
+    "servicios": ["Banca personal", "Banca de inversión", "Gestión de activos", "Comercio de valores"],
+    "ceo": "Jamie Dimon",
+    "factCurioso": "Es el resultado de la fusión de J.P. Morgan & Co. y Chase Manhattan Corporation en 2000"
+  },
+  {
+    "id": "icbc",
+    "nombre": "ICBC",
+    "nombreCompleto": "Industrial and Commercial Bank of China",
+    "pais": "China",
+    "sede": "Pekín",
+    "fundado": 1984,
+    "activos": "6.1 billones USD",
+    "descripcion": "El banco más grande del mundo por activos totales",
+    "servicios": ["Banca corporativa", "Banca personal", "Banca de inversión", "Finanzas internacionales"],
+    "ceo": "Gu Shu",
+    "factCurioso": "Tiene más de 500,000 empleados y atiende a más de 700 millones de clientes"
+  },
+  {
+    "id": "hsbc",
+    "nombre": "HSBC",
+    "nombreCompleto": "Hongkong and Shanghai Banking Corporation",
+    "pais": "Reino Unido",
+    "sede": "Londres",
+    "fundado": 1865,
+    "activos": "3.0 billones USD",
+    "descripcion": "Uno de los bancos más grandes del mundo con presencia en 64 países",
+    "servicios": ["Banca comercial", "Banca de inversión", "Gestión de patrimonio", "Seguros"],
+    "ceo": "Noel Quinn",
+    "factCurioso": "Fue fundado en Hong Kong para financiar el comercio entre Europa y Asia"
+  },
+  {
+    "id": "bnpparibas",
+    "nombre": "BNP Paribas",
+    "pais": "Francia",
+    "sede": "París",
+    "fundado": 2000,
+    "activos": "2.8 billones USD",
+    "descripcion": "El banco más grande de Francia y uno de los líderes europeos",
+    "servicios": ["Banca de inversión", "Gestión de activos", "Banca comercial", "Seguros"],
+    "ceo": "Jean-Laurent Bonnafé",
+    "factCurioso": "Se formó mediante la fusión de Banque Nationale de Paris y Paribas"
+  },
+  {
+    "id": "bankofamerica",
+    "nombre": "Bank of America",
+    "pais": "Estados Unidos",
+    "sede": "Charlotte, Carolina del Norte",
+    "fundado": 1904,
+    "activos": "3.2 billones USD",
+    "descripcion": "Uno de los bancos más grandes de Estados Unidos con presencia global",
+    "servicios": ["Banca personal", "Banca de inversión", "Gestión de riqueza", "Comercio"],
+    "ceo": "Brian Moynihan",
+    "factCurioso": "Es el segundo banco más grande de Estados Unidos por activos"
+  },
+  {
+    "id": "wellsfargo",
+    "nombre": "Wells Fargo",
+    "pais": "Estados Unidos",
+    "sede": "San Francisco, California",
+    "fundado": 1852,
+    "activos": "1.9 billones USD",
+    "descripcion": "Uno de los bancos más antiguos y grandes de Estados Unidos",
+    "servicios": ["Banca comercial", "Banca de inversión", "Hipotecas", "Gestión de patrimonio"],
+    "ceo": "Charles Scharf",
+    "factCurioso": "Fue fundado para financiar el desarrollo del oeste americano durante la fiebre del oro"
+  },
+  {
+    "id": "citigroup",
+    "nombre": "Citigroup",
+    "pais": "Estados Unidos",
+    "sede": "Nueva York",
+    "fundado": 1812,
+    "activos": "2.4 billones USD",
+    "descripcion": "Banco global con operaciones en más de 160 países",
+    "servicios": ["Banca de inversión", "Banca comercial", "Gestión de activos", "Trading"],
+    "ceo": "Jane Fraser",
+    "factCurioso": "Jane Fraser es la primera mujer CEO de un banco importante en Wall Street"
+  },
+  {
+    "id": "santander",
+    "nombre": "Banco Santander",
+    "pais": "España",
+    "sede": "Madrid",
+    "fundado": 1857,
+    "activos": "1.7 billones USD",
+    "descripcion": "El banco más grande de la zona euro por capitalización de mercado",
+    "servicios": ["Banca comercial", "Banca de inversión", "Seguros", "Gestión de activos"],
+    "ceo": "Ana Botín",
+    "factCurioso": "Ana Botín es la primera mujer en liderar un banco español de esta magnitud"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "finanzasmundo-backend",
+  "version": "1.0.0",
+  "description": "Backend API para FinanzasMundo - Economía y Finanzas Globales",
+  "main": "server/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node server/server.js",
+    "dev:watch": "node --watch server/server.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "finance",
+    "economy",
+    "api",
+    "backend",
+    "express"
+  ],
+  "author": "Juan Felipe Hoy",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_nota": "Mapeo de cada entidad de la app a su ticker en la SEC. El CIK NO se guarda aquí: se resuelve en tiempo de ejecución desde el directorio oficial de la SEC (company_tickers.json), que es la única fuente fiable. 'esperado' es el fragmento que debe aparecer en el nombre legal del emisor; si no coincide se descarta el dato en lugar de mostrar el de otra compañía con el mismo ticker.",
+  "bancos": {
+    "jpmorgan": { "ticker": "JPM", "esperado": "JPMORGAN" },
+    "bankofamerica": { "ticker": "BAC", "esperado": "BANK OF AMERICA" },
+    "wellsfargo": { "ticker": "WFC", "esperado": "WELLS FARGO" },
+    "citigroup": { "ticker": "C", "esperado": "CITIGROUP" },
+    "hsbc": { "ticker": "HSBC", "esperado": "HSBC" },
+    "santander": { "ticker": "SAN", "esperado": "SANTANDER" },
+    "icbc": { "ticker": null, "motivo": "No cotiza en EE.UU.: no presenta estados financieros ante la SEC." },
+    "bnpparibas": { "ticker": null, "motivo": "No cotiza en EE.UU.: no presenta estados financieros ante la SEC." }
+  },
+  "mercados": {
+    "nyse": [
+      { "ticker": "AAPL", "esperado": "APPLE" },
+      { "ticker": "MSFT", "esperado": "MICROSOFT" },
+      { "ticker": "AMZN", "esperado": "AMAZON" },
+      { "ticker": "BRK-B", "esperado": "BERKSHIRE" }
+    ],
+    "nasdaq": [
+      { "ticker": "GOOGL", "esperado": "ALPHABET" },
+      { "ticker": "META", "esperado": "META PLATFORMS" },
+      { "ticker": "TSLA", "esperado": "TESLA" },
+      { "ticker": "NVDA", "esperado": "NVIDIA" }
+    ],
+    "lse": [
+      { "ticker": "HSBC", "esperado": "HSBC" },
+      { "ticker": "SHEL", "esperado": "SHELL" },
+      { "ticker": "BP", "esperado": "BP" },
+      { "ticker": "AZN", "esperado": "ASTRAZENECA" }
+    ],
+    "tse": [
+      { "ticker": "TM", "esperado": "TOYOTA" },
+      { "ticker": "SONY", "esperado": "SONY" }
+    ],
+    "sse": [],
+    "hke": [
+      { "ticker": "BABA", "esperado": "ALIBABA" }
+    ]
+  }
+}

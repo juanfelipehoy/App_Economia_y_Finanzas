@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nyse",
+    "nombre": "NYSE",
+    "nombreCompleto": "New York Stock Exchange",
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "descripcion": "La bolsa de valores más grande del mundo por capitalización de mercado",
+    "fundada": 1792,
+    "capitalizacion": "28.5 billones USD",
+    "empresasDestacadas": ["Apple", "Microsoft", "Amazon", "Berkshire Hathaway"],
+    "horario": "9:30 AM - 4:00 PM EST"
+  },
+  {
+    "id": "nasdaq",
+    "nombre": "NASDAQ",
+    "nombreCompleto": "National Association of Securities Dealers Automated Quotations",
+    "pais": "Estados Unidos",
+    "ciudad": "Nueva York",
+    "descripcion": "Especializada en tecnología y empresas de crecimiento",
+    "fundada": 1971,
+    "capitalizacion": "21.3 billones USD",
+    "empresasDestacadas": ["Google", "Meta", "Tesla", "NVIDIA"],
+    "horario": "9:30 AM - 4:00 PM EST"
+  },
+  {
+    "id": "lse",
+    "nombre": "LSE",
+    "nombreCompleto": "London Stock Exchange",
+    "pais": "Reino Unido",
+    "ciudad": "Londres",
+    "descripcion": "Una de las bolsas más antiguas del mundo",
+    "fundada": 1801,
+    "capitalizacion": "3.8 billones USD",
+    "empresasDestacadas": ["HSBC", "Shell", "BP", "AstraZeneca"],
+    "horario": "8:00 AM - 4:30 PM GMT"
+  },
+  {
+    "id": "tse",
+    "nombre": "TSE",
+    "nombreCompleto": "Tokyo Stock Exchange",
+    "pais": "Japón",
+    "ciudad": "Tokio",
+    "descripcion": "La bolsa más grande de Asia",
+    "fundada": 1878,
+    "capitalizacion": "5.7 billones USD",
+    "empresasDestacadas": ["Toyota", "Sony", "SoftBank", "Nintendo"],
+    "horario": "9:00 AM - 3:00 PM JST"
+  },
+  {
+    "id": "sse",
+    "nombre": "SSE",
+    "nombreCompleto": "Shanghai Stock Exchange",
+    "pais": "China",
+    "ciudad": "Shanghái",
+    "descripcion": "La bolsa más grande de China continental",
+    "fundada": 1990,
+    "capitalizacion": "7.2 billones USD",
+    "empresasDestacadas": ["ICBC", "PetroChina", "China Construction Bank"],
+    "horario": "9:30 AM - 3:00 PM CST"
+  },
+  {
+    "id": "hke",
+    "nombre": "HKEX",
+    "nombreCompleto": "Hong Kong Stock Exchange",
+    "pais": "Hong Kong",
+    "ciudad": "Hong Kong",
+    "descripcion": "Puerta de entrada a inversiones en China",
+    "fundada": 1891,
+    "capitalizacion": "4.8 billones USD",
+    "empresasDestacadas": ["Tencent", "Alibaba", "HSBC", "China Mobile"],
+    "horario": "9:30 AM - 4:00 PM HKT"
+  }
+]

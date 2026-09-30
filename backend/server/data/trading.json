@@ -1,0 +1,62 @@
+[
+  {
+    "id": "day-trading",
+    "nombre": "Day Trading",
+    "descripcion": "Comprar y vender el mismo día, cerrando todas las posiciones antes del cierre del mercado",
+    "duracion": "Mismo día",
+    "riesgo": "Alto",
+    "recompensa": "Alta",
+    "habilidadesRequeridas": ["Análisis técnico", "Gestión de riesgo", "Disciplina", "Velocidad de decisión"],
+    "herramientas": ["Gráficos en tiempo real", "Noticias financieras", "Plataformas de trading"],
+    "ventajas": ["Sin riesgo overnight", "Oportunidades diarias", "Capital no bloqueado"],
+    "desventajas": ["Alto estrés", "Comisiones acumulativas", "Requiere tiempo completo"]
+  },
+  {
+    "id": "swing-trading",
+    "nombre": "Swing Trading",
+    "descripcion": "Mantener posiciones por días o semanas, capturando movimientos de precios a corto plazo",
+    "duracion": "Días a semanas",
+    "riesgo": "Medio",
+    "recompensa": "Media-Alta",
+    "habilidadesRequeridas": ["Análisis técnico", "Análisis fundamental", "Paciencia", "Gestión de posiciones"],
+    "herramientas": ["Gráficos diarios/semanales", "Calendario económico", "Indicadores técnicos"],
+    "ventajas": ["Menos estrés que day trading", "Mayor tiempo para análisis", "Mejor relación riesgo/recompensa"],
+    "desventajas": ["Riesgo overnight", "Menos oportunidades", "Requiere paciencia"]
+  },
+  {
+    "id": "scalping",
+    "nombre": "Scalping",
+    "descripcion": "Operaciones muy rápidas de segundos a minutos, buscando pequeñas ganancias acumuladas",
+    "duracion": "Segundos a minutos",
+    "riesgo": "Muy Alto",
+    "recompensa": "Media",
+    "habilidadesRequeridas": ["Velocidad extrema", "Análisis técnico avanzado", "Gestión de riesgo estricta", "Enfoque total"],
+    "herramientas": ["Data feed de alta velocidad", "Plataformas de ejecución rápida", "Múltiples monitores"],
+    "ventajas": ["Sin riesgo overnight", "Muchas oportunidades", "Ganancias rápidas"],
+    "desventajas": ["Muy estresante", "Costos de transacción altos", "Requiere dedicación exclusiva"]
+  },
+  {
+    "id": "position-trading",
+    "nombre": "Position Trading",
+    "descripcion": "Inversión a largo plazo, manteniendo posiciones por meses o años",
+    "duracion": "Meses a años",
+    "riesgo": "Bajo-Medio",
+    "recompensa": "Alta",
+    "habilidadesRequeridas": ["Análisis fundamental profundo", "Visión a largo plazo", "Paciencia", "Conocimiento del sector"],
+    "herramientas": ["Reportes financieros", "Análisis macroeconómico", "Newsletters de inversión"],
+    "ventajas": ["Menos estrés", "Menores costos de transacción", "Beneficios de compounding"],
+    "desventajas": ["Capital bloqueado", "Lenta realización de ganancias", "Riesgo de cambios estructurales"]
+  },
+  {
+    "id": "algorithmic-trading",
+    "nombre": "Algorithmic Trading",
+    "descripcion": "Uso de algoritmos y programas informáticos para ejecutar operaciones automáticamente",
+    "duracion": "Variable",
+    "riesgo": "Variable",
+    "recompensa": "Variable",
+    "habilidadesRequeridas": ["Programación", "Matemáticas", "Estadística", "Conocimiento de mercados"],
+    "herramientas": ["Python", "R", "APIs de trading", "Backtesting"],
+    "ventajas": ["Elimina emociones", "Operaciones 24/7", "Backtesting de estrategias"],
+    "desventajas": ["Requiere conocimientos técnicos", "Riesgo de errores en código", "Costos de infraestructura"]
+  }
+]
