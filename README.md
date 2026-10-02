@@ -6,7 +6,7 @@ Plataforma educativa fullstack sobre economía y finanzas globales con datos de 
 ![React](https://img.shields.io/badge/React-19.2-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-## 📋 Descripción
+##  Descripción
 
 FinanzasMundo es una aplicación web educativa que proporciona información financiera global obtenida exclusivamente de fuentes oficiales y verificables. El proyecto sigue un principio de transparencia total: cada dato numérico incluye su procedencia, fecha de actualización y enlace para auditoría.
 
@@ -27,7 +27,7 @@ FinanzasMundo es una aplicación web educativa que proporciona información fina
 - ✅ API RESTful con documentación de endpoints
 - ✅ Frontend React moderno con componentes reutilizables
 
-## 🏗️ Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```
 finanzasmundo/
@@ -49,7 +49,7 @@ finanzasmundo/
 └── package.json        # Scripts del monorepo
 ```
 
-## 🚀 Tecnologías
+##  Tecnologías
 
 ### Backend
 - **Node.js** >= 20
@@ -65,7 +65,7 @@ finanzasmundo/
 ### Desarrollo
 - **concurrently** 8.2.2 (Ejecución paralela)
 
-## 📦 Instalación
+##  Instalación
 
 ### Requisitos Previos
 
@@ -90,7 +90,7 @@ Este comando instala:
 - Dependencias del backend
 - Dependencias del frontend
 
-## 🎯 Ejecución
+##  Ejecución
 
 ### Modo Desarrollo
 
@@ -130,7 +130,7 @@ npm run lint
 npm run check
 ```
 
-## 📚 Endpoints de la API
+##  Endpoints de la API
 
 ### Salud del Sistema
 - `GET /api/salud` - Estado del sistema y fuentes
@@ -149,7 +149,7 @@ npm run check
 - `GET /api/estado` - Estado de frescura por sección
 - `GET /api/stats` - Estadísticas agregadas
 
-## 🔒 Fuentes de Datos
+##  Fuentes de Datos
 
 Todas las fuentes son oficiales y verificables:
 
@@ -159,7 +159,7 @@ Todas las fuentes son oficiales y verificables:
 - **Coinbase**: Datos de criptomonedas
 - **Reguladores bancarios**: Información financiera
 
-## 🤝 Contribución
+##  Contribución
 
 Las contribuciones son bienvenidas. Por favor:
 
@@ -176,21 +176,21 @@ Las contribuciones son bienvenidas. Por favor:
 - Incluir tests para nuevas funcionalidades
 - Actualizar la documentación
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
 
-## 👤 Autor
+##  Autor
 
 **Juan Felipe Hoy**
 
-## 📞 Soporte
+##  Soporte
 
 Para reportar issues o sugerencias:
 - Abre un issue en el repositorio
 - Contacta al mantenedor
 
-## 🙏 Agradecimientos
+##  Agradecimientos
 
 - Banco Central Europeo por los datos de divisas
 - Banco Mundial por los datos de inflación
